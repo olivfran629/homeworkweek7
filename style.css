@@ -1,0 +1,61 @@
+body {
+	background-color: #f9ecf2;
+	font-size: 20px;
+	font-family: 'Tangerine', serif;
+}
+h1{
+	font-family: "Arial Black", Gadget, sans-serif;
+	color: #602040;
+}
+h2{
+	font-family: fantasy;
+	color: #602040;
+}
+h3{
+	font-family: "Lucida Sans Unicode", "lucida grande", sans-serif;
+	color: #602040;
+}
+h4{
+	font-family: Tahoma, Geneva, sans-serif;
+	color: #602040;
+}
+h5{
+	font-family: Geirgia, serif;
+	color: #602040;
+}
+h6{
+	font-family: "Comic Sans MS", sursive, sans-serif;
+	color: #602040;
+}
+p {
+	color: #993366;
+}
+ol {
+	font-size: .8em;
+	color: #ac3973;
+}
+a:link {
+	color: #990099;
+}
+a:visited {
+	color: #330033;
+}
+#myspecialdiv {
+	color: #1a000d;
+}
+ul {
+	font-size: .6em;
+}
+.myspecialclass {
+	background-color: #e6e6e6;
+	text-align: center;
+	border: 3px;
+}
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: 3px;
+}
+
+	
